@@ -8,7 +8,7 @@ sandglass with adjustable duration
 [haphe](https://www.albertmartin.de/latein/?q=haphe) = feiner Sand = fine sand
 
 first sketch:
-![first sketch](file:///home/stefan/mydata/github/tempushaphe/sketch/Sanduhr_T1.svg)
+![first sketch](./sketch/Sanduhr_T1.svg)
 
 for the current status see [research.md](research.md)
 
